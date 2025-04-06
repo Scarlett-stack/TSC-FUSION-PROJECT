@@ -82,4 +82,5 @@ Vezi folderul Images pt detalii
 - Test Pads pentru depanare rapida
 
 ---
+Am acceptat erorile SMD de overlap pt ca asa ni s-a zis la curs
 
